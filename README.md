@@ -190,9 +190,6 @@ Weather-Application/
 **Rainy Weather Background:**
 ![Screenshot 2023-09-09 232921](https://github.com/garvita2003/Weather-Application/assets/102051676/5c4bd7d7-a2be-4302-a19f-c0e1f081dd1e)
 
-**Snow Weather Display:**
-![Screenshot 2023-09-09 232835](https://github.com/garvita2003/Weather-Application/assets/102051676/c2e390bb-0a18-4717-8b09-54e50b3ff6b6)
-
 ---
 
 ## ⚙️ Setup Instructions
